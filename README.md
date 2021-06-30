@@ -59,6 +59,4 @@ I :heart: GitHub :octocat:
 
 ![ViewCount](https://views.whatilearened.today/views/github/dihsimon/views.svg)
 
-https://github.com/dihsimon
-
 
