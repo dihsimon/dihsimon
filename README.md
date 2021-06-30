@@ -9,6 +9,7 @@ I :heart: GitHub :octocat:
 <br />
 
 **Languages and Tools:** 
+<br />
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="SpringBoot"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"></code>
@@ -29,10 +30,32 @@ I :heart: GitHub :octocat:
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"></code>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dihsimon&show_icons=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dihsimon&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dihsimon&theme=nord&show_icons=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dihsimon&" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dihsimon&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dihsimon&theme=nord_dark)
+
+
+<hr>
+ 
+ <br>
+
+  <div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/diegosimoncarmona/" target="_blank">
+  <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/dihsimon/" target="_blank">
+  <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:diegosimoncarmona@gmail.com" target="_blank">
+  <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br>
 
 ![ViewCount](https://views.whatilearened.today/views/github/dihsimon/views.svg)
 
