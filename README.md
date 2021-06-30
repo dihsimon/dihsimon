@@ -27,7 +27,6 @@ I :heart: GitHub :octocat:
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" title="Trello"></code>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dihsimon&show_icons=true&layout=compact)
